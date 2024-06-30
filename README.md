@@ -1,40 +1,41 @@
-## Title
-
-React-Firebase-Course-Website
+# Course-Website
 
 ## Description
 
-Developed a web application for showcasing a list of courses and their details using React. Implemented the course listing page, a course details page, and a student dashboard to display enrolled courses. Implemented course like feature
+This project is a web application built with React for showcasing a list of courses and their details. It includes a course listing page, a course details page, and a student dashboard for displaying enrolled courses. Additionally, it features a course like functionality.
 
 ## Features
 
-- This is a project for a Course Website which allows user to enroll for courses and user can see their enrolled courses in "My Courses" section. 
+- Users can enroll in courses and view them in the "My Courses" section.
+- Built with React.js and Tailwind CSS for a responsive, user-friendly interface.
+- Utilizes Firebase for authentication and for fetching and updating courses in Firestore.
+- Includes a course like feature.
+- Manages state using Redux, particularly for user authentication and course enrollment.
 
-- Used React.js and Tailwind CSS to create user friendly interface 
-
-- Used Firebase for authentication and fetching & updating courses from the firestore. Also implemented course like feature.
-
-- Used Redux for managing state of application. Implemented redux in user authentication and course enrollment.
- 
 ## View Website
 
-Here is the deployed link to the website: [Deployed Link:](https://react-firebase-course-bice.vercel.app/)
+Visit the deployed site here: [Deployed Link](https://6680590d5941573681d69d2f--dashing-toffee-0fdf41.netlify.app/)
 
-# Installation
+## Installation
 
-To install and run this project locally, add the following commands in your terminal, follow these steps:
+To install and run this project locally, follow these steps:
 
 1. Clone the repository from GitHub:
 
-```bash
-    `git clone https://github.com/omkargade04/react-firebase-course.git`
+   ```bash
 
-```
+
+
+
+
+
+
+
 
 2. Navigate into the project directory:
 
 ```bash
-   `cd react-firebase-course`
+   `cd course`
 ```
 
 ## Important
@@ -63,10 +64,4 @@ To install and run this project locally, add the following commands in your term
 
 8. Open `http://localhost:5173` on your browser to view the project locally
 
-## Images
-
-![Screenshot 2024-05-07 191610](https://github.com/omkargade04/react-firebase-course/assets/121718985/d3397b33-cff1-479a-8e60-b8c6ba9506ac)
-![image](https://github.com/omkargade04/react-firebase-course/assets/121718985/12dc0043-29dd-4f95-b9b3-47bb9f4a2f41)
-![Screenshot 2024-05-07 191332](https://github.com/omkargade04/react-firebase-course/assets/121718985/1cc382f0-a23a-440e-a9ee-35933b4f1c71)
-![Screenshot 2024-05-07 191347](https://github.com/omkargade04/react-firebase-course/assets/121718985/2d487234-e1c1-4236-8e03-5d97dba36866)
 
