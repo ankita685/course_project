@@ -23,8 +23,7 @@ To install and run this project locally, follow these steps:
 1. Clone the repository from GitHub:
 
    ```bash
-`git clone https://github.com/ankita685/course_project.git`
-
+     `git clone https://github.com/ankita685/course_project.git`
 
 
 
