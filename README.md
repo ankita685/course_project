@@ -25,12 +25,6 @@ To install and run this project locally, follow these steps:
    ```bash
      `git clone https://github.com/ankita685/course_project.git`
 
-
-
-
-
-
-
 2. Navigate into the project directory:
 
 ```bash
